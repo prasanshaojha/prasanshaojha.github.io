@@ -1,0 +1,113 @@
+---
+title: "Projects"
+---
+
+::: {.column-page}
+
+# My Projects
+
+A collection of projects that showcase my skills, creativity, and passion for building meaningful solutions.
+
+## Featured Projects
+
+:::: {.columns}
+
+::: {.column width="48%"}
+### Vendor Performance Data Analytics
+
+**Description**: An end-to-end data analytics project that consolidates multi-source vendor data into actionable business intelligence for performance evaluation and optimization.
+
+**Technologies**: SQL, Python (Pandas, NumPy, SciPy), Power BI
+
+**Key Features**:
+- Designed SQL CTEs to consolidate 6+ raw datasets (purchases, sales, pricing, invoices, inventory)
+- Performed data cleaning and feature engineering in Python
+- Created critical KPIs: Gross Profit, Profit Margin, Stock Turnover, Sales-to-Purchase Ratio
+- Conducted EDA with statistical tests (t-tests, distributions, correlations)
+- Developed interactive Power BI dashboards for vendor performance visualization
+
+**Date**: October 2025
+
+:::
+
+::: {.column width="48%"}
+### Statistical Marketing Analysis
+
+**Description**: Data-driven analysis to help a marketing agency identify the most effective ad campaign platform through rigorous statistical testing and predictive modeling.
+
+**Technologies**: Python (Pandas, Matplotlib, Seaborn, SciPy), Statistical Analysis
+
+**Key Features**:
+- Defined business problems and formulated research questions
+- Performed comprehensive exploratory data analysis and visualization
+- Conducted A/B testing and hypothesis testing using SciPy
+- Built regression models to predict conversions and ROI
+- Delivered actionable weekly and monthly insights with evidence-based recommendations
+
+**Date**: May 2025
+
+:::
+
+::::
+
+---
+
+:::: {.columns}
+
+::: {.column width="48%"}
+### ISP Market Share Data Scraping & Analysis
+
+**Description**: Automated data pipeline to extract, process, and visualize ISP market share data, enabling trend analysis and competitive intelligence.
+
+**Technologies**: Python (BeautifulSoup, Requests, pdfplumber), SQL Server, Power BI
+
+**Key Features**:
+- Developed Python-based automation pipeline for data extraction
+- Used BeautifulSoup and Requests to retrieve published PDF reports
+- Extracted and processed tabular data from PDFs using pdfplumber
+- Cleaned and stored data in SQL Server
+- Built Power BI dashboards to visualize market trends and performance insights
+
+**Date**: February 2025 | **Context**: Office Project at WorldLink Communication Ltd.
+
+:::
+
+::: {.column width="48%"}
+### Blog Recommendation System
+
+**Description**: A web application that recommends blogs to users by combining content-based and collaborative filtering techniques with machine learning.
+
+**Technologies**: Python, Django, Machine Learning, SQL
+
+**Key Features**:
+- Implemented content-based and collaborative filtering algorithms
+- Handled algorithm design and backend development
+- Integrated machine learning models with Django framework
+- Enhanced accuracy by combining user interaction data with content similarity measures
+- Delivered a functional recommendation engine for improved user engagement
+
+**Date**: August 2024 | **Context**: College Project
+
+:::
+
+:::
+
+::::
+
+---
+
+## Open Source Contributions
+
+I believe in giving back to the community. Some of my open source contributions:
+
+- **Project/Repo Name** - Description of contribution
+- **Project/Repo Name** - Description of contribution
+- **Project/Repo Name** - Description of contribution
+
+---
+
+## Want to Discuss a Project?
+
+[Get in Touch →](contact.qmd){.btn .btn-primary}
+
+:::

@@ -1,0 +1,58 @@
+---
+title: "About Me"
+---
+
+::: {.column-page}
+
+# About Me
+
+## Who I Am
+
+Hi! I'm Prasansha Ojha, a Data Analyst and Business Analyst with a strong foundation in both technical data engineering and strategic business analysis. I'm passionate about uncovering hidden patterns in data and translating them into actionable business strategies. I believe in the power of data-driven decision making to solve real-world business challenges.
+
+## Background
+
+I started my career at WorldLink Communication Ltd. as a Data Analyst Intern, where I quickly progressed to a full Data Analyst role. During my tenure, I worked extensively with SQL Server, PostgreSQL, Oracle, and Python to build robust data pipelines and dashboards. I've successfully migrated legacy systems, optimized performance, and created critical business dashboards that support revenue and operational decisions.
+
+Currently, I'm a Data Analytics Analyst at Cedargate Technology, where I continue to apply my skills in data analysis, visualization, and business intelligence.
+
+### Education
+
+- **BSc in Computer Science and Information Technology** - Tribhuvan University, Kathmandu, Nepal (June 2025)
+
+### Professional Experience
+
+**Data Analytics Analyst 1** at Cedargate Technology (February 2026 - Present)
+
+**Data Analyst** at WorldLink Communication Ltd. (December 2024 - February 2026)
+- Contributed to ARPU, Customer Benefit Impact, and Customer Renewal Performance dashboards
+- Migrated queries and datasets from Oracle to PostgreSQL with query optimization
+- Wrote Python scripts for MongoDB-to-SQL Server data insertion
+- Built and optimized the EMT Daily KPI Dashboard for revenue, churn, growth, and regional metrics
+- Implemented data verification and validation checks across multiple sources
+
+**Data Analyst Intern** at WorldLink Communication Ltd. (June 2024 - December 2024)
+- Developed dashboards for FTTH ports, network distribution, and bandwidth usage
+- Created and improved SQL procedures for task automation
+- Collaborated with teams on network data integration and analysis
+
+## My Approach
+
+I'm driven by curiosity and a commitment to excellence. I believe in:
+
+- **Problem-Solving**: Understanding the core of a challenge before diving into solutions
+- **Continuous Learning**: Staying updated with emerging technologies and best practices
+- **Collaboration**: Working effectively with teams to achieve shared goals
+- **Quality**: Delivering reliable, maintainable, and user-friendly solutions
+
+## Interests & Hobbies
+
+Beyond coding, I enjoy [your interests/hobbies]. These experiences help me bring diverse perspectives to my work.
+
+## What's Next
+
+I'm always excited to explore new opportunities and collaborate on meaningful projects. Whether you have a project in mind or just want to chat about technology, feel free to reach out!
+
+[Get in Touch →](contact.qmd){.btn .btn-primary}
+
+:::

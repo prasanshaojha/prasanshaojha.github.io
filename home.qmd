@@ -1,0 +1,53 @@
+---
+title: "Welcome"
+---
+
+::: {.column-page}
+
+![Profile Picture](images/profile.jpeg){.img-fluid style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 300px; margin: 0 auto 30px; display: block;"}
+
+# 👋 Welcome to My Portfolio
+
+I'm **Prasansha Ojha**, a Data Analyst and Business Analyst dedicated to transforming raw data into actionable business insights through advanced analytics and strategic data visualization.
+
+## What I Do
+
+I specialize in end-to-end data analytics—from data engineering and ETL pipelines to exploratory analysis, statistical testing, and interactive dashboard creation. I combine technical expertise with business acumen to drive data-informed decision-making.
+
+:::: {.columns}
+
+::: {.column width="30%"}
+### 📊 Data Analytics
+Transforming complex datasets into insights
+:::
+
+::: {.column width="30%"}
+### 🔧 Data Engineering
+Building robust ETL pipelines and data infrastructure
+:::
+
+::: {.column width="30%"}
+### 📈 Visualization
+Creating compelling Power BI dashboards
+:::
+
+::::
+
+---
+
+## Featured Projects
+
+Explore some of my recent work and learn about the challenges I've tackled.
+
+[Browse All Projects →](projects.qmd){.btn .btn-primary}
+
+---
+
+## Get in Touch
+
+Interested in collaborating or want to learn more? I'd love to hear from you!
+
+[Contact Me →](contact.qmd){.btn .btn-primary}
+
+:::
+

@@ -1,0 +1,105 @@
+---
+title: "Skills"
+---
+
+::: {.column-page}
+
+# Skills & Expertise
+
+A comprehensive overview of my technical skills and areas of expertise.
+
+## Technical Skills
+
+### Programming Languages
+
+:::: {.columns}
+
+::: {.column width="48%"}
+- **Python** - Advanced
+- **SQL** - Advanced (SQL Server, MySQL, PostgreSQL, Oracle)
+- **VBA/Excel Scripting** - Intermediate
+:::
+
+::: {.column width="48%"}
+- **DAX** - Intermediate
+- **M (Power Query)** - Intermediate
+:::
+
+::::
+
+### Python Libraries & Frameworks
+
+:::: {.columns}
+
+::: {.column width="48%"}
+**Data Analysis & Visualization**
+- Pandas - Data manipulation and transformation
+- NumPy - Numerical computing
+- SciPy - Statistical analysis and testing
+- Matplotlib - Data visualization
+- Seaborn - Statistical graphics
+:::
+
+::: {.column width="48%"}
+**Other**
+- Django - Web framework
+- BeautifulSoup - Web scraping
+- pdfplumber - PDF data extraction
+- Requests - HTTP library
+:::
+
+::::
+
+### Business Intelligence & Analytics
+
+:::: {.columns}
+
+::: {.column width="48%"}
+**Primary Tools**
+- **Microsoft Power BI** - Advanced
+- **Report Builder** - Advanced
+- **Excel** - Advanced (VLookup, Pivot Tables, Conditional Formatting, Data Analysis)
+:::
+
+::: {.column width="48%"}
+**Database Management**
+- SQL Server Management Studio
+- PostgreSQL
+- MySQL
+- Oracle
+:::
+
+::::
+
+---
+
+## Soft Skills
+
+- **Communication** - Clearly explaining complex concepts
+- **Problem-Solving** - Breaking down challenges into manageable parts
+- **Teamwork** - Collaborating effectively in diverse environments
+- **Leadership** - Mentoring and guiding team members
+- **Project Management** - Planning and executing projects efficiently
+- **Adaptability** - Learning new technologies and methodologies quickly
+
+---
+
+## Certifications & Badges
+
+- **BSc in Computer Science and Information Technology** - Tribhuvan University, June 2025
+
+---
+
+## Continuous Learning
+
+I'm always expanding my skillset. Currently exploring:
+
+- Advanced statistical modeling and machine learning
+- Cloud platforms and data warehouse solutions (BigQuery, Snowflake)
+- Advanced Power BI and DAX optimization
+
+---
+
+[Check Out My Projects →](projects.qmd){.btn .btn-primary}
+
+:::
