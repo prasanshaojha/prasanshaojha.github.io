@@ -17,12 +17,12 @@ A comprehensive overview of my technical skills and areas of expertise.
 ::: {.column width="48%"}
 - **Python** - Advanced
 - **SQL** - Advanced (SQL Server, MySQL, PostgreSQL, Oracle)
-- **VBA/Excel Scripting** - Intermediate
+- **VBA/Excel Scripting** - Advanced
 :::
 
 ::: {.column width="48%"}
-- **DAX** - Intermediate
-- **M (Power Query)** - Intermediate
+- **DAX** - Advanced
+- **M (Power Query)** - Advanced
 :::
 
 ::::
