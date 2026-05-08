@@ -4,7 +4,9 @@ title: "Welcome"
 
 ::: {.column-page}
 
-![Profile Picture](images/profile.jpeg){.img-fluid style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 300px; margin: 0 auto 30px; display: block;"}
+::: {.profile-picture-container}
+![Profile Picture](images/profile.jpeg)
+:::
 
 # 👋 Welcome to My Portfolio
 

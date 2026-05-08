@@ -98,6 +98,31 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Profile Picture */
+.profile-picture-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 30px;
+}
+
+.profile-picture-container figure {
+  margin: 0;
+}
+
+.profile-picture-container img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid var(--primary-color);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+.profile-picture-container figcaption {
+  display: none; /* hides "Profile Picture" caption */
+}
+
 /* Forms */
 .form-control {
   border: 1px solid #ddd;
