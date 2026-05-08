@@ -10,7 +10,28 @@ A collection of projects that showcase my skills, creativity, and passion for bu
 
 ## Featured Projects
 
-:::: {.columns}
+::: {.columns}
+
+::: {.column width="48%"}
+### Screen Time and Eye Strain Analysis
+
+**Description**: End-to-end data science project focused on analyzing digital screen usage patterns and predicting eye strain risk using exploratory data analysis, statistical insights, and machine learning techniques. The project aims to identify key behavioral and lifestyle factors contributing to eye fatigue and provide actionable recommendations for healthier screen habits.
+
+**Technologies**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SHAP), Jupyter Notebook, Power BI
+
+**Key Features**:
+
+- Performed dataset overview, data cleaning, and exploratory data analysis to identify trends, distributions, and outliers
+- Visualized average daily screen time across different age groups and analyzed eye strain risk based on screen exposure
+- Investigated relationships between screen time, sleep patterns, and eye strain indicators through statistical visualizations
+- Planning to implement feature engineering techniques to derive custom eye strain risk metrics and behavioral indicators
+- Planning to build machine learning models for predicting eye strain risk levels based on user lifestyle and device usage patterns
+- Planning to develop interactive dashboards and visual reports for communicating insights and personalized recommendations
+- Planning to apply model explainability techniques to identify the most influential factors contributing to eye strain
+
+**Date**: present | **Context**: Personal Project
+
+:::
 
 ::: {.column width="48%"}
 ### Vendor Performance Data Analytics
@@ -26,33 +47,15 @@ A collection of projects that showcase my skills, creativity, and passion for bu
 - Conducted EDA with statistical tests (t-tests, distributions, correlations)
 - Developed interactive Power BI dashboards for vendor performance visualization
 
-**Date**: October 2025
+**Date**: October 2025 | **Context**: Personal Project
 
 :::
 
-::: {.column width="48%"}
-### Statistical Marketing Analysis
-
-**Description**: Data-driven analysis to help a marketing agency identify the most effective ad campaign platform through rigorous statistical testing and predictive modeling.
-
-**Technologies**: Python (Pandas, Matplotlib, Seaborn, SciPy), Statistical Analysis
-
-**Key Features**:
-- Defined business problems and formulated research questions
-- Performed comprehensive exploratory data analysis and visualization
-- Conducted A/B testing and hypothesis testing using SciPy
-- Built regression models to predict conversions and ROI
-- Delivered actionable weekly and monthly insights with evidence-based recommendations
-
-**Date**: May 2025
-
 :::
-
-::::
 
 ---
 
-:::: {.columns}
+::: {.columns}
 
 ::: {.column width="48%"}
 ### ISP Market Share Data Scraping & Analysis
@@ -92,17 +95,15 @@ A collection of projects that showcase my skills, creativity, and passion for bu
 
 :::
 
-::::
-
 ---
 
 ## Open Source Contributions
 
-I believe in giving back to the community. Some of my open source contributions:
+I enjoy contributing to open-source and sharing my projects with the community.
 
-- **Project/Repo Name** - Description of contribution
-- **Project/Repo Name** - Description of contribution
-- **Project/Repo Name** - Description of contribution
+- [**Screen Time and Eye Strain Analysis**](https://github.com/prasanshaojha/ScreenTime_and_EyeStrain)
+- [**Vendor Performance Data Analytics**](https://github.com/prasanshaojha/vendor-performance-analysis)
+- [**ISP Market Share Data Scraping**](https://github.com/prasanshaojha/Scrappingdata)
 
 ---
 
