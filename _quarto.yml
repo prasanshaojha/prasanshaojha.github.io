@@ -9,7 +9,7 @@ website:
     search: false
     right:
       - text: "Home"
-        href: home.qmd
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Projects"
